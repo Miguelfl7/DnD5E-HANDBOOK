@@ -1,2 +1,3 @@
 The majority of this github content belongs to their respectives owners. 
-I do not own the book's rights.
+This repository is only to save D&D books, a digital reference for products you already own. 
+Please ensure you only access content in accordance with your local laws
